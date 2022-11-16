@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2022-11-16 13:48:12.713788 by celery UNKNOWN
+<configuration>
+    <end value="3600.0"/>
+    <max-distance value="2000.0"/>
+    <net-file value="/sesam-data/scenarios-guests/2jmnyrt34uzvbycc1hz47bmino62d0mr/a47b83ba-817b-4a46-8f3e-e089bf896a81/osm.net.xml"/>
+    <pedestrians value="True"/>
+    <period value="0.30246842719033373"/>
+    <route-file value="/sesam-data/scenarios-guests/2jmnyrt34uzvbycc1hz47bmino62d0mr/a47b83ba-817b-4a46-8f3e-e089bf896a81/osm.pedestrian.rou.xml"/>
+    <output-trip-file value="/sesam-data/scenarios-guests/2jmnyrt34uzvbycc1hz47bmino62d0mr/a47b83ba-817b-4a46-8f3e-e089bf896a81/osm.pedestrian.trips.xml"/>
+    <prefix value="ped"/>
+    <vehicle-class value="pedestrian"/>
+</configuration>
+-->
+
+<!-- generated on 2022-11-16 13:48:12 by Eclipse SUMO duarouter Version 1.14.1
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/duarouterConfiguration.xsd">
+
+    <input>
+        <net-file value="/sesam-data/scenarios-guests/2jmnyrt34uzvbycc1hz47bmino62d0mr/a47b83ba-817b-4a46-8f3e-e089bf896a81/osm.net.xml"/>
+        <route-files value="/sesam-data/scenarios-guests/2jmnyrt34uzvbycc1hz47bmino62d0mr/a47b83ba-817b-4a46-8f3e-e089bf896a81/osm.pedestrian.trips.xml"/>
+    </input>
+
+    <output>
+        <output-file value="/sesam-data/scenarios-guests/2jmnyrt34uzvbycc1hz47bmino62d0mr/a47b83ba-817b-4a46-8f3e-e089bf896a81/osm.pedestrian.rou.xml"/>
+        <alternatives-output value="NUL"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="3600.0"/>
+    </time>
+
+    <report>
+        <no-warnings value="true"/>
+        <ignore-errors value="true"/>
+        <no-step-log value="true"/>
+    </report>
+
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd"/>
