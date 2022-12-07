@@ -8,8 +8,7 @@
     <input>
         <net-file value="stuttgart.net.xml.gz"/>
         <route-files value="stuttgart.passenger.trips.xml,stuttgart.pedestrian.rou.xml"/>
-        <!--<additional-files value="stuttgart.poly.xml,stuttgart.stations.xml"/>-->
-        <additional-files value="stuttgart.stations.xml"/>
+        <additional-files value="stuttgart.stations.xml,stuttgart.poly.xml"/>
     </input>
 
     <processing>
