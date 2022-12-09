@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2022-12-09 09:40:12.247833 by celery UNKNOWN
+<configuration>
+    <allow-fringe.min-length value="1000.0"/>
+    <end value="3600.0"/>
+    <fringe-factor value="5.0"/>
+    <fringe-start-attributes value="departSpeed=&quot;max&quot;"/>
+    <lanes value="True"/>
+    <min-distance value="300.0"/>
+    <net-file value="/sesam-data/scenarios-guests/o39k7dyaucddrv2fu5bkkoyca8x9gvsn/de5a25a9-cffa-4f8d-9b01-432f5bc44dc1/osm.net.xml"/>
+    <period value="1.4863049631240308"/>
+    <route-file value="/sesam-data/scenarios-guests/o39k7dyaucddrv2fu5bkkoyca8x9gvsn/de5a25a9-cffa-4f8d-9b01-432f5bc44dc1/osm.passenger.rou.xml"/>
+    <trip-attributes value="departLane=&quot;best&quot;"/>
+    <output-trip-file value="/sesam-data/scenarios-guests/o39k7dyaucddrv2fu5bkkoyca8x9gvsn/de5a25a9-cffa-4f8d-9b01-432f5bc44dc1/osm.passenger.trips.xml"/>
+    <prefix value="veh"/>
+    <validate value="True"/>
+    <vehicle-class value="passenger"/>
+</configuration>
+-->
+
+<!-- generated on 2022-12-09 09:40:12 by Eclipse SUMO duarouter Version 1.14.1
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/duarouterConfiguration.xsd">
+
+    <input>
+        <net-file value="/sesam-data/scenarios-guests/o39k7dyaucddrv2fu5bkkoyca8x9gvsn/de5a25a9-cffa-4f8d-9b01-432f5bc44dc1/osm.net.xml"/>
+        <route-files value="/sesam-data/scenarios-guests/o39k7dyaucddrv2fu5bkkoyca8x9gvsn/de5a25a9-cffa-4f8d-9b01-432f5bc44dc1/osm.passenger.trips.xml"/>
+    </input>
+
+    <output>
+        <output-file value="/sesam-data/scenarios-guests/o39k7dyaucddrv2fu5bkkoyca8x9gvsn/de5a25a9-cffa-4f8d-9b01-432f5bc44dc1/osm.passenger.trips.xml.tmp"/>
+        <alternatives-output value="NUL"/>
+        <write-trips value="true"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="3600.0"/>
+    </time>
+
+    <report>
+        <no-warnings value="true"/>
+        <ignore-errors value="true"/>
+        <no-step-log value="true"/>
+    </report>
+
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd"/>
