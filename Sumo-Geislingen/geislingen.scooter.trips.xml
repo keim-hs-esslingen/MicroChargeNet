@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<routes>
+<vType id="e_scooter" vClass="bicycle"/>
+<trip id="scooter_0" depart="10" from="-25644726" to="96291405#2"/>
+<trip id="scooter_1" depart="11" from="24653821#1" to="-24883867#4"/>
+<trip id="scooter_2" depart="12" from="-24883867#4" to="96291405#2"/>
+<trip id="scooter_3" depart="13" from="-29396612#1" to="-25644726"/>
+<trip id="scooter_4" depart="14" from="5119107#3" to="24653821#1"/>
+<trip id="scooter_5" depart="15" from="24291538#2" to="-24883867#4"/>
+<trip id="scooter_6" depart="16" from="-779873779" to="-29396612#1"/>
+<trip id="scooter_7" depart="17" from="96291405#2" to="5119107#3"/>
+<trip id="scooter_8" depart="18" from="-24883867#4" to="24291538#2"/>
+<trip id="scooter_9" depart="19" from="96291405#2" to="-779873779"/>
+</routes>

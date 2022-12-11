@@ -7,8 +7,8 @@
 
     <input>
         <net-file value="geislingen.net.xml.gz"/>
-        <route-files value="geislingen.passenger.trips.xml"/>
-        <additional-files value="geislingen.poly.xml,geislingen.stations.xml"/>
+        <route-files value="geislingen.scooter.trips.xml"/>
+        <additional-files value="geislingen.poly.xml,geislingen.chargingStations.xml,geislingen.stations.xml"/>
     </input>
 
     <processing>

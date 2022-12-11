@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<additional>
+<chargingStation chargeDelay="2" chargeInTransit="0" power="200000" efficiency="0.95" endPos="80" id="chargingStation_0" lane="-25644726_0" startPos="76"/>
+<chargingStation chargeDelay="2" chargeInTransit="0" power="200000" efficiency="0.95" endPos="23" id="chargingStation_1" lane="24653821#1_0" startPos="19"/>
+<chargingStation chargeDelay="2" chargeInTransit="0" power="200000" efficiency="0.95" endPos="28" id="chargingStation_2" lane="-24883867#4_0" startPos="24"/>
+<chargingStation chargeDelay="2" chargeInTransit="0" power="200000" efficiency="0.95" endPos="109" id="chargingStation_3" lane="-29396612#1_0" startPos="105"/>
+<chargingStation chargeDelay="2" chargeInTransit="0" power="200000" efficiency="0.95" endPos="812" id="chargingStation_4" lane="5119107#3_0" startPos="808"/>
+<chargingStation chargeDelay="2" chargeInTransit="0" power="200000" efficiency="0.95" endPos="22" id="chargingStation_5" lane="24291538#2_0" startPos="18"/>
+<chargingStation chargeDelay="2" chargeInTransit="0" power="200000" efficiency="0.95" endPos="29" id="chargingStation_6" lane="-779873779_0" startPos="25"/>
+<chargingStation chargeDelay="2" chargeInTransit="0" power="200000" efficiency="0.95" endPos="248" id="chargingStation_7" lane="96291405#2_0" startPos="244"/>
+<chargingStation chargeDelay="2" chargeInTransit="0" power="200000" efficiency="0.95" endPos="28" id="chargingStation_8" lane="-24883867#4_0" startPos="24"/>
+<chargingStation chargeDelay="2" chargeInTransit="0" power="200000" efficiency="0.95" endPos="248" id="chargingStation_9" lane="96291405#2_0" startPos="244"/>
+</additional>
