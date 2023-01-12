@@ -1,2 +1,2 @@
 # MicroChargeNet
-This Repo is a Code Collection of the Bachelor Thesis of Pascal Kasper
+This Repo shows an approach to create equidistant Positions for Micromobility Charging Points by using the Eclipse SUMO Simulation Environment. 
